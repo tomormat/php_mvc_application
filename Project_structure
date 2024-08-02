@@ -1,0 +1,21 @@
+/mvc_app
+|-- /controllers
+|   |-- AdvertisementController.php
+|   |-- UserController.php
+|   |-- HomeController.php
+|-- /models
+|   |-- Advertisement.php
+|   |-- User.php
+|-- /services
+|   |-- AdvertisementService.php
+|   |-- UserService.php
+|   |-- Database.php
+|-- /views
+|   |-- home.php
+|   |-- advertisements.php
+|   |-- users.php
+|-- /assets
+|   |-- style.css
+|-- .htaccess
+|-- index.php
+|-- db_config.php
